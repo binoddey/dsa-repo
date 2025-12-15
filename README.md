@@ -31,7 +31,7 @@ This is not a shortcut repo — it’s a **discipline-driven learning archive**.
 
 ## Tech Stack
 
-- **Languages:** C++ / Java / Python (as applicable)
+- **Languages:** C++ 
 - **Tools:** VS Code, Git, GitHub
 - **Approach:** Problem-first, optimization-driven
 
